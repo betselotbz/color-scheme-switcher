@@ -1,5 +1,7 @@
 # Color Scheme Switcher
 
+[Feel free to fork this codepen for this exercise](https://codepen.io/marcwright/pen/oNYJdKK)
+
 Attached is the completed HTML and CSS for an incredibly advanced website. In anticipation of the millions of viewers it's going to draw, we'd like to let users customize their experience by choosing a color scheme for the site.
 
 The only downside is none of us know Javascript!
